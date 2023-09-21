@@ -1,0 +1,187 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19045.3324; Version 2009; 64bit' Language: 'en' Physical Memory: 32716 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+B:/GunGeoNeer_Final/GunGeoNeer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52036
+Successfully changed project path to: B:/GunGeoNeer_Final/GunGeoNeer
+B:/GunGeoNeer_Final/GunGeoNeer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 158.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path B:/GunGeoNeer_Final/GunGeoNeer/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 (ID=0x731f)
+    Vendor:   ATI
+    VRAM:     8151 MB
+    Driver:   31.0.21023.2010
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56492
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002299 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 155.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.445 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003123 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image B:\GunGeoNeer_Final\GunGeoNeer\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image B:\GunGeoNeer_Final\GunGeoNeer\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 154.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.190 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3873 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.1 MB.
+System memory in use after: 166.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4329.
+Total: 3.504600 ms (FindLiveObjects: 0.389600 ms CreateObjectMapping: 0.156000 ms MarkObjects: 2.886700 ms  DeleteObjects: 0.071000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/MainGameScene.unity
+  artifactKey: Guid(77f33823ba397514eb8dfb03755ea213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainGameScene.unity using Guid(77f33823ba397514eb8dfb03755ea213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61b6fa5de8b9d9b810415643f32b87f') in 0.027038 seconds 
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.7 MB.
+System memory in use after: 82.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 4329.
+Total: 2.953100 ms (FindLiveObjects: 0.327600 ms CreateObjectMapping: 0.088500 ms MarkObjects: 2.482000 ms  DeleteObjects: 0.054100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 257.117957 seconds.
+  path: Assets/GameAssets/Textures/Sprites/Enemies/Grimonk/GrimonkIdleDown.png
+  artifactKey: Guid(69fa382726f40184badb61aba7b0682f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAssets/Textures/Sprites/Enemies/Grimonk/GrimonkIdleDown.png using Guid(69fa382726f40184badb61aba7b0682f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23dbcc26493aad98c561c4b2af49718f') in 0.195075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.073489 seconds.
+  path: Assets/GameAssets/Textures/Sprites/Enemies/MudRock/MudrockIdleDown.png
+  artifactKey: Guid(c2e113c7c19971148b6f85845fa6c358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAssets/Textures/Sprites/Enemies/MudRock/MudrockIdleDown.png using Guid(c2e113c7c19971148b6f85845fa6c358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c2a8f6a8d95fbc40a2726b11fd26fe') in 0.020544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.364126 seconds.
+  path: Assets/GameAssets/Textures/Sprites/Enemies/Orc/OrcIdleUp.png
+  artifactKey: Guid(98cc70469c209944d9255240da2fbd93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAssets/Textures/Sprites/Enemies/Orc/OrcIdleUp.png using Guid(98cc70469c209944d9255240da2fbd93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9307e6ab1ab5b9bd33ccaa4cd8dc7e7d') in 0.020275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.048856 seconds.
+  path: Assets/GameAssets/Textures/Sprites/Enemies/SlimeBlock/SlimeBlockIdleDown.png
+  artifactKey: Guid(f74a93b1d87f36749ba078e20f7fa96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAssets/Textures/Sprites/Enemies/SlimeBlock/SlimeBlockIdleDown.png using Guid(f74a93b1d87f36749ba078e20f7fa96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677cd6382a85fb20afa23927468b6651') in 0.020846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.608565 seconds.
+  path: Assets/GameAssets/Textures/Sprites/Enemies/Slizzard/SlizzardIdleDown.png
+  artifactKey: Guid(a8656369a18034244b64a0e94d781de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAssets/Textures/Sprites/Enemies/Slizzard/SlizzardIdleDown.png using Guid(a8656369a18034244b64a0e94d781de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441cca253db3801a735c7ff89b197edf') in 0.020670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.772798 seconds.
+  path: Assets/GameAssets/Textures/Sprites/Enemies/Hedusa/HedusaIdleUp.png
+  artifactKey: Guid(7948fec287b6cef45b2cec17da62a310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAssets/Textures/Sprites/Enemies/Hedusa/HedusaIdleUp.png using Guid(7948fec287b6cef45b2cec17da62a310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874aa3540e4b3e1fd3a3e13784030dd3') in 0.019813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.855309 seconds.
+  path: Assets/GameAssets/Textures/Sprites/Enemies/Hedusa/HedusaIdleRight.png
+  artifactKey: Guid(ed92381492a879940953ada8c2881bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAssets/Textures/Sprites/Enemies/Hedusa/HedusaIdleRight.png using Guid(ed92381492a879940953ada8c2881bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4441b27b8e5ed9702f97d653cee3f7') in 0.020824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.923580 seconds.
+  path: Assets/GameAssets/Textures/Sprites/Enemies/SlimeBlock/SlimeBlockMoveRight.png
+  artifactKey: Guid(ccf608c010688814581a71a79fa58775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAssets/Textures/Sprites/Enemies/SlimeBlock/SlimeBlockMoveRight.png using Guid(ccf608c010688814581a71a79fa58775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd30b7e2d7065e44a57b1c4035b7ed2b') in 0.020711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.143466 seconds.
+  path: Assets/ScriptableObjectAssets/Enemy/SlimeBlock/Green/EnemyDetails_SlimeBlock_Green.asset
+  artifactKey: Guid(9e1461e3d5c110a44ac597e7bbf92042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Enemy/SlimeBlock/Green/EnemyDetails_SlimeBlock_Green.asset using Guid(9e1461e3d5c110a44ac597e7bbf92042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d329fdb900458b836ae8b1ce56cff33') in 0.653797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.818470 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Enemy/QBZ95SMG/AmmoDetails_QBZ95SMG_Enemy.asset
+  artifactKey: Guid(1208047644fcaf646862ed3dc44bb3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/QBZ95SMG/AmmoDetails_QBZ95SMG_Enemy.asset using Guid(1208047644fcaf646862ed3dc44bb3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61bc458b292609a55475410567d776b7') in 0.010646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.282518 seconds.
+  path: Assets/ScriptableObjectAssets/Enemy/SlimeBlock/Blue/EnemyDetails_SlimeBlock_Blue.asset
+  artifactKey: Guid(e305d49d6dbbced4aacbcba4b9e8a0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Enemy/SlimeBlock/Blue/EnemyDetails_SlimeBlock_Blue.asset using Guid(e305d49d6dbbced4aacbcba4b9e8a0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe3b5d8453e7d32b63ffce71f2ab8d69') in 0.569435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.647726 seconds.
+  path: Assets/ScriptableObjectAssets/Enemy/SlimeBlock/Red/EnemyDetails_SlimeBlock_Red.asset
+  artifactKey: Guid(72a17a7a442d02245a45bb5563a1e7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Enemy/SlimeBlock/Red/EnemyDetails_SlimeBlock_Red.asset using Guid(72a17a7a442d02245a45bb5563a1e7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcee16679bf5d63eaa27a837ae0eda66') in 0.568177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.585762 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun/AmmoDetails_Shotgun_Enemy.asset
+  artifactKey: Guid(1fde2ac317e294045bf911c6b3696c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun/AmmoDetails_Shotgun_Enemy.asset using Guid(1fde2ac317e294045bf911c6b3696c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af4f7458cfda4c0655a622a48dff4778') in 0.012570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.898896 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoDetails_Pistol_Enemy.asset
+  artifactKey: Guid(2d0f0ddbcf39bbd459293db9b31d7873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoDetails_Pistol_Enemy.asset using Guid(2d0f0ddbcf39bbd459293db9b31d7873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1a10711b3d93e528411a246055214a0') in 0.010993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.767944 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Enemy/HocusPlasmus/AmmoDetails_HocusPlasmus_Enemy.asset
+  artifactKey: Guid(2ecb91b788dc97b42aba6a9f6d1ecec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/HocusPlasmus/AmmoDetails_HocusPlasmus_Enemy.asset using Guid(2ecb91b788dc97b42aba6a9f6d1ecec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae77e69042818134536b189ac0d4fc9') in 0.015691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.762998 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun Boss/AmmoDetails_Shotgun_Boss.asset
+  artifactKey: Guid(15fa443b6a7b79d4d9bb684f96ab2bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun Boss/AmmoDetails_Shotgun_Boss.asset using Guid(15fa443b6a7b79d4d9bb684f96ab2bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbbaae6d9f8845913ee2ba247804f1c3') in 0.010750 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
